@@ -7,6 +7,9 @@ import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.fabricEnabled
 import com.facebook.react.defaults.DefaultReactActivityDelegate
+import com.nexoapp.BuildConfig
+import com.nexoapp.R
+
 
 import expo.modules.ReactActivityDelegateWrapper
 
